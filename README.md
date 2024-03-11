@@ -24,5 +24,5 @@ The official source code for the MIT 6.1810 labs, unmodified, cloned from `git c
 
 `fs`  [Lab: file system (mit.edu)](https://pdos.csail.mit.edu/6.S081/2023/labs/fs.html)
 
-`mmap`:[Lab: mmap (mit.edu)](https://pdos.csail.mit.edu/6.S081/2023/labs/mmap.html)
+`mmap`  [Lab: mmap (mit.edu)](https://pdos.csail.mit.edu/6.S081/2023/labs/mmap.html)
 
